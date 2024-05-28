@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: #272044;
+  background: black;
 }
 
 .container {
@@ -182,8 +182,8 @@ main P {
 footer {
   color: white;
   background-image: linear-gradient(
-      rgba(39, 32, 68, 0.9),
-      rgba(39, 32, 68, 0.9)
+      rgba(39, 32, 68, 0.7),
+      rgba(39, 32, 68, 0.7)
     ),
     url("../Images/buildings/buildings.png");
   background-repeat: no-repeat;
